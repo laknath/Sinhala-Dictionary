@@ -12,7 +12,7 @@ Install.
 >Buddhika Laknath (blaknath@gmail.com)
 
 ##Updated By
->Navi Pramod (ipnpd@yahoo.com)
+>ipman_98 (ipnpd@yahoo.com)
 
 ##Contact
 >Buddhika Laknath (blaknath@gmail.com)
